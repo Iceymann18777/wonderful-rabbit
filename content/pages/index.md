@@ -9,7 +9,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: 'start '
+      - label: start generat
         url: '#'
         style: link
         new_window: false
