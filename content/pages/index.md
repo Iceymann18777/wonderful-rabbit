@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: WELCOME TO CRYPTO MINER WORLD
-    subtitle: 'THIS IS '
+    subtitle: 'this is '
   - type: features_section
     title: Features
     features:
