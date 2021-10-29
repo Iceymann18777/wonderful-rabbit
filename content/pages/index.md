@@ -23,7 +23,7 @@ sections:
     title: WELCOME TO CRYPTO MINER WORLD
     subtitle: >-
       this is a a very unique crypto miner built on the echo system backend
-      through the blockchain 
+      through the blockchain hub
   - type: features_section
     title: Features
     features:
