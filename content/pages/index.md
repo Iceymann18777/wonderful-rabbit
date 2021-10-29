@@ -10,7 +10,7 @@ sections:
         url: /contact
         style: secondary
       - label: 'start generating '
-        url: '#'
+        url: '#https://'
         style: link
         new_window: false
         no_follow: false
