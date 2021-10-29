@@ -9,7 +9,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: atrat
         url: '#'
         style: link
         new_window: false
