@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: WELCOME TO CRYPTO MINER WORLD
-    subtitle: 'this is a a very unique crypto miner built on the echo system '
+    subtitle: this is a a very unique crypto miner built on the echo system backed
   - type: features_section
     title: Features
     features:
