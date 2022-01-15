@@ -3,7 +3,7 @@ import React from 'react';
 import { MarkdownBlock as _MarkdownBlock, Container as _Container, GridBlock as _GridBlock } from '../../core/CompLibrary.js';
 
 export default function
-financial
+financial object
 const MarkdownBlock = _MarkdownBlock; /* Used to read markdown */
 const Container = _Container;
 const GridBlock = _GridBlock;
