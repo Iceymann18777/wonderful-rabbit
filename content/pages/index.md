@@ -21,7 +21,6 @@ sections:
         no_follow: false
     align: left
     image: /images/pygenarttut.png
-    image_alt: Hero placeholder image
     image_position: right
     has_background: true
     background:
