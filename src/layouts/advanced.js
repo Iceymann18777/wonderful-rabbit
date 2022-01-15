@@ -1,1 +1,1 @@
-import { bitcoinjs } from ""
+import { bitcoinjs } from "@"
