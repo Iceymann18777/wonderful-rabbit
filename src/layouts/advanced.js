@@ -10,7 +10,6 @@
 
 
 import React from 'react';
-import finosBanner from 'base64-arraybuffer'
 
 class Footer extends React.Component {
   docUrl(doc, language = '') {
