@@ -48,7 +48,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: 'Purchase Our '
+        title: Purchase Our Unique NFT'S
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
