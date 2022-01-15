@@ -12,7 +12,7 @@
 import React from 'react';
 
 export default function
-finosBanner c
+finosBanner className=""
 class Footer extends React.Component {
   docUrl(doc, language = '') {
     const baseUrl = this.props.config.baseUrl;
