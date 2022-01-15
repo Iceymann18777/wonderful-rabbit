@@ -10,7 +10,7 @@
 
 
 import React from 'react';
-import 
+import b
 
 class Footer extends React.Component {
   docUrl(doc, language = '') {
