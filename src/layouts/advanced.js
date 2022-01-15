@@ -1,1 +1,1 @@
-import { bitcoinjs } from "@blockchain"
+import { bitcoinjs } from "@blockchain-core-ui"
