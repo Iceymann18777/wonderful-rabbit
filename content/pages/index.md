@@ -1,52 +1,49 @@
 ---
-title: Cryptocurrency
+title: NFT Crypto Farm Generator
 sections:
   - type: hero_section
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
+      - label: NFT's Unique Art
+        url: https://nftcryptofarmgenerator.com/
+        style: w3l awsome front bootstrap
       - label: Contact Us
-        url: /contact
-        style: secondary
-      - label: 'start generating '
+        url: https://github.com/iceymann18777.git/
+        style: 🔮 secondry 
+      - label: 'start generating limitless NFT'S'
         url: '#https://newbtcs.com'
         style: link
-        new_window: true
+        new_window: true loop
         no_follow: true
-      - label: lorem-ipsum
-        url: '#'
+      - label: Nft-Art
+        url: 'https://opensea.com/'
         style: link
         new_window: false
         no_follow: false
     align: left
-    image: /images/pygenarttut.png
-    image_position: right
+    image: ![image](https://user-images.githubusercontent.com/82147328/149628346-6533aaf8-8d3d-406c-a76e-d970efb79fa7.png)
+
+    image_position: right 
     has_background: true
     background:
-      background_color: blue
+      background_color: black&gold
       background_image: /images/gamma_image_5.png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: WELCOME TO CRYPTO MINER WORLD
+    title: WELCOME TO CRYPTO MINER WORLD NFT'S
     subtitle: >-
-      this is a a very unique crypto miner built on the echo system backend
-      through the blockchain hub
+      this is a a very unique crypto NFT generator peace of art please check it out
     image_alt: NFT Crypto Farm Generator
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - 1. purchase one of our unique nft's please conbtact us on our github pagee [link](https://github.com/iceymann18777.git).
         align: left
-        image: images/feature.svg
+        image: images/favcon.nft
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
-            url: /features
+          - label: start your journy with our nft generator
+            url: https://nftcryptofarmgenerator.com/
             style: secondary
         title: Purchase Our Unique NFT'S
       - title: Feature 2
