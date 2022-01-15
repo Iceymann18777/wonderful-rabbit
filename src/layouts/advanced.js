@@ -11,7 +11,8 @@
 
 import React from 'react';
 
-export default function,
+export default function
+
 class Footer extends React.Component {
   docUrl(doc, language = '') {
     const baseUrl = this.props.config.baseUrl;
