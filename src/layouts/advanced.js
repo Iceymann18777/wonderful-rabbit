@@ -10,7 +10,7 @@
 
 
 import React from 'react';
-import b
+import finosBanner from ''
 
 class Footer extends React.Component {
   docUrl(doc, language = '') {
