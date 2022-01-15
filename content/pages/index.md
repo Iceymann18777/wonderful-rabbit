@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
     align: left
-    image: images/hero.svg
+    image: /images/pygenarttut.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
