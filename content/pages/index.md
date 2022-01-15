@@ -35,7 +35,6 @@ sections:
       through the blockchain hub
     image_alt: NFT Crypto Farm Generator
   - type: features_section
-    title: Features
     features:
       - title: Feature 1
         content: >-
