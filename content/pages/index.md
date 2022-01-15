@@ -33,6 +33,7 @@ sections:
     subtitle: >-
       this is a a very unique crypto miner built on the echo system backend
       through the blockchain hub
+    image_alt: 'NFT '
   - type: features_section
     title: Features
     features:
